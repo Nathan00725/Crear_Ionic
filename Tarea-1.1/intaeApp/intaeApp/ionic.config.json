@@ -1,0 +1,7 @@
+{
+  "name": "intaeApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

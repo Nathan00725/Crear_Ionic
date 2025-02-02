@@ -1,0 +1,7 @@
+{
+  "name": "fenafuth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
